@@ -84,6 +84,7 @@ app.listen(port, () => {
 	6. command: "heroku login"
 	7. command: "heroku create" (only one time for a project)
 	8. command: "git push heroku main" 
+	9. heroku > app > settings > add var (add DB_USER and DB_PASS)
 
 * Update:
 	1. save everything, check locally
